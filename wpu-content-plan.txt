@@ -2,7 +2,9 @@ Rencana Konten WPU
 - JavaScript
   *ES6
   *JS Frameworks
- - Data Structure Fundamentals
+   ^ Angular
+   ^ React
 - PHP Frameworks
+   ^ Laravel
 - Interview
 - Vlogs
